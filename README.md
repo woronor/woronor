@@ -1,16 +1,14 @@
-## Hi there 👋
+## **Hi there**💭
+A BI Analyst is mainly works with `Infor BI Application studio`
 
-<!--
-**woronor/woronor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔍Currently Learning
+- Exploring in Data Engineer, Business, Economics, Logistics and Supply Chian
+- Improving language skills in English and Chinese
+- How to become a good writer
 
-Here are some ideas to get you started:
+## ⚙Tools
+- Language: SQL, R, Python
+- Visualization: Infor BI Application studio, Power BI, Looker Studio, Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤜Connect with me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wareenan/)
