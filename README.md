@@ -3,7 +3,7 @@ A BI Analyst is mainly works with `Infor BI Application studio`
 
 ## 🔍Currently Learning
 - Exploring in Data Engineer, Business, Economics, Logistics and Supply Chian
-- Improving language skills in English and Chinese
+- Improving language skills in English, Chinese, and Español is coming soon
 - How to become a good writer
 
 ## ⚙Tools
